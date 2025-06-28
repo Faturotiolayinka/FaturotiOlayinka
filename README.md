@@ -9,8 +9,7 @@ I’m a **Data Scientist and Data Analyst** passionate about using data to tell 
 
 ## 💡 What I Do
 
-💡 What I Do
-Develop end-to-end data science workflows using Python
+- Develop end-to-end data science workflows using Python
 
 - Clean, preprocess, and transform raw datasets for analysis and modeling
 
