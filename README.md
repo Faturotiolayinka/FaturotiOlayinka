@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Faturoti Olayinka
 ---
-## Data Scientist|Data Analyst|Python|PowerBi|SQL|Excel
+## Data Scientist | Data Analyst | Python | PowerBi | SQL | Excel
 ---
 ## About Me
 I’m a **Data Scientist and Data Analyst** passionate about using data to tell meaningful stories, solve real-world problems, and drive evidence-based decisions. With a strong foundation in Computer Science and hands-on experience in data projects and internships, I specialize in building end-to-end data solutions—from data cleaning to predictive modeling and down to deployment.
