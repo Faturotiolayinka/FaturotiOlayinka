@@ -9,13 +9,22 @@ I’m a **Data Scientist and Data Analyst** passionate about using data to tell 
 
 ## 💡 What I Do
 
-- Clean and preprocess raw datasets to prepare them for analysis  
-- Perform **Exploratory Data Analysis (EDA)** to identify insights, trends, and anomalies  
-- Build **machine learning models** in Python to solve classification, regression, and clustering problems  
-- Create insightful **dashboards** using **Power BI** and **Excel** for business intelligence  
-- Use **SQL** for data querying and analysis in relational databases  
-- Communicate results clearly using visualizations and storytelling
-- Deployment
+💡 What I Do
+Develop end-to-end data science workflows using Python
+
+- Clean, preprocess, and transform raw datasets for analysis and modeling
+
+- Perform Exploratory Data Analysis (EDA) to uncover patterns and insights
+
+- Build and evaluate machine learning models using Scikit-learn
+
+- Deploy machine learning models using Streamlit and Flask to build interactive web applications
+
+- Create interactive dashboards and reports using Power BI and Excel to support data-driven decisions
+
+- Collaborate on data projects and internships, applying statistical and machine learning techniques to solve real-world problems
+
+- Continuously learn and explore new tools and technologies in the data science ecosystem
 ---
 
 ## 🛠️ Tools & Technologies
@@ -35,13 +44,7 @@ I’m a **Data Scientist and Data Analyst** passionate about using data to tell 
 ---
 
 
-## 🧠 Currently Exploring
 
-I'm deepening my expertise in:
-- **Time Series Forecasting**  
-- **Model Deployment with Streamlit and Flask**  
-- **Natural Language Processing (NLP)**  
-- **Deep Learning using TensorFlow and PyTorch**
 
 ---
 
