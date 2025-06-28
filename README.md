@@ -42,11 +42,6 @@ I’m a **Data Scientist and Data Analyst** passionate about using data to tell 
 
 ---
 
-
-
-
----
-
 ## 📫 Let’s Connect
 
 - 🔗 LinkedIn: www.linkedin.com/in/faturoti-olayinka-29b8b32a7
